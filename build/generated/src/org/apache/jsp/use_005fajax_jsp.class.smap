@@ -1,0 +1,17 @@
+SMAP
+use_005fajax_jsp.java
+JSP
+*S JSP
+*F
++ 0 use_ajax.jsp
+use_ajax.jsp
+*L
+1,6:51
+7,4:13
+10:56
+13,8:59
+20:67
+21:68,3
+23,2:72
+24,2:74
+*E
